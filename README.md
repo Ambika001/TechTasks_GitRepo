@@ -1,4 +1,4 @@
 TechTasks_GitRepo
 =================
 
-My public git repository
+this is my public git repository
